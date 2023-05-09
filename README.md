@@ -14,4 +14,9 @@ Remove stop-words as given in Stopwords.txt, such as “a”, “the”, “that
 Sort the common words in descending order of the smaller number of occurrences in the two files.
 In general, words with different case or different non-whitespace punctuation are considered different words.
 
-
+#### Marking
+The assignment contains a public dataset 'data/' and expected output 'answer.txt'. 
+If your codes are correct, your output should be the same as 'answer.txt'. 
+Different orders will also be considered as correct in marking. 
+All the codes will be automatically compiled and marked by similar scripts as 'compile_run' on a private test dataset. 
+So, ensure your codes can be compiled by the script in your package.
